@@ -58,7 +58,7 @@ python -m src.cli run
 python tests\test_smoke.py
 ```
 
-Domain engine kind: `general`.
+Domain engine kind: `analytics`.
 
 **Author:** Md Shohrab Hossen Niaz  
 **GitHub:** `academic-integrity-risk-pattern-analysis`
